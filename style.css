@@ -1,0 +1,208 @@
+.nav-item:hover{
+    background-color: rgb(51, 187, 192);
+    color: black;
+}
+
+.nav-item{
+margin: 0% 4%;
+font-size: 1.5rem;
+font-family: 'Acme', sans-serif;
+}
+
+.textnew{
+    text-align: center;
+    padding: 7%;
+    margin: 3%;
+}
+.text1{
+ text-align: center;
+ background-color:rgb(51, 187, 192);
+ margin: -3px;
+ padding: 0.5%;
+ color: white;
+ text-decoration: underline;
+ 
+}
+
+.imageboy{
+ float: right;
+ height: 800px;
+}
+#navigate{
+    margin: 2%;
+
+}
+.dropdown-item{
+    padding-left: 30%;
+}
+.button1{
+    float: right;
+}
+.body1{
+    background-color: rgb(51, 187, 192);
+    font-family: 'Acme', sans-serif;
+   height: 800px;
+   
+    color: azure;
+}
+.bodytext{
+    
+    padding: 20% 5% ;
+    color: azure;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.textbottom{
+    text-align: center;
+    font-size: 2rem;
+    padding: 10%;
+
+}
+
+.textin{
+    background-color:rgb(51, 187, 192);
+    color: azure;
+}
+
+.border{
+    margin-top: 15%;
+}
+
+
+
+.textinside{
+    background-color:rgb(51, 187, 192);
+    color: azure;
+    text-align: center;
+    float: right;
+    position: relative;
+    padding: 3% ;
+}
+.textoutside{
+    background-color: aliceblue;
+    text-align: center;
+    float: right;
+    position: relative;
+    padding: 3% ;
+    padding-top: 7%;
+}
+.imagevehicle{
+    
+    float: left;
+ padding: 0 10px 10px 0;
+ height: 300px;
+
+}
+.imagetech{
+    
+    float: right;
+ padding: 0 10px 10px 0;
+ height: 400px;
+
+}
+.imagecustomer{
+    float: left;
+ padding: 0 10px 10px 0;
+ height: 400px;
+}
+
+#video{
+    text-align: center;
+    padding: 5%;
+}
+
+
+
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.container-fluid{
+    padding: 2% 15% 7%;
+
+}
+
+
+
+
+.icon{
+    color: rgb(51, 187, 192);
+ margin-bottom: 1.5rem;
+}
+.icon:hover{
+    color: crimson ;
+}
+
+.testimonials-image{
+    width: 10%;
+    border-radius: 50%;
+    text-align: center;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.card{
+    background-color: tan;
+}
+
+.cardd-text{
+    padding: 3% 2%;
+}
+
+
+
+
+
+#features{
+    background-color: white;
+    padding: 7% 15%;
+    height: auto;
+    z-index: 1;
+    position: relative;
+}
+#testimonials{
+    text-align: center;
+    background-color: rgb(51, 187, 192);
+    font-family: 'Montserrat', sans-serif; 
+    color: cornsilk;
+}
+#press{
+    background-color: rgb(51, 187, 192);
+    padding-bottom: 3%;
+    text-align: center;
+}
+#cta{
+    background-color: rgb(51, 187, 192);
+    text-align: center;
+    padding: 5% 15%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+#footer{
+    text-align: center;
+    padding-top: 3%;
+}
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+.card:hover{
+    background-color: rgb(51, 187, 192);
+}
+
+
+
